@@ -1,0 +1,7 @@
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.BusinessLayer\bin\Debug\netcoreapp2.2\Level2.BusinessLayer.deps.json
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.BusinessLayer\bin\Debug\netcoreapp2.2\Level2.BusinessLayer.dll
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.BusinessLayer\bin\Debug\netcoreapp2.2\Level2.BusinessLayer.pdb
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.BusinessLayer\obj\Debug\netcoreapp2.2\Level2.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.BusinessLayer\obj\Debug\netcoreapp2.2\Level2.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.BusinessLayer\obj\Debug\netcoreapp2.2\Level2.BusinessLayer.dll
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.BusinessLayer\obj\Debug\netcoreapp2.2\Level2.BusinessLayer.pdb

@@ -1,0 +1,25 @@
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\Project Solution.deps.json
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\Project Solution.runtimeconfig.json
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\Project Solution.runtimeconfig.dev.json
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\Project Solution.dll
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.csprojAssemblyReference.cache
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.RazorAssemblyInfo.cache
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.RazorAssemblyInfo.cs
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.AssemblyInfoInputs.cache
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.AssemblyInfo.cs
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.RazorTargetAssemblyInfo.cache
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\Project Solution.pdb
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.dll
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.pdb
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\Project Solution.Views.dll
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\bin\Debug\netcoreapp2.2\Project Solution.Views.pdb
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.TagHelpers.input.cache
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.TagHelpers.output.cache
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.RazorCoreGenerate.cache
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Razor\Views\New\New.cshtml.g.cs
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.RazorTargetAssemblyInfo.cs
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.Views.pdb
+E:\Shilpa\24-03-2020\ASP.NET Core MVC\Project Solution\Project Solution\obj\Debug\netcoreapp2.2\Project Solution.csproj.CopyComplete

@@ -1,0 +1,13 @@
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\bin\Debug\netcoreapp2.2\Level2.Test.deps.json
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\bin\Debug\netcoreapp2.2\Level2.Test.runtimeconfig.json
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\bin\Debug\netcoreapp2.2\Level2.Test.runtimeconfig.dev.json
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\bin\Debug\netcoreapp2.2\Level2.Test.dll
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\bin\Debug\netcoreapp2.2\Level2.Test.pdb
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\obj\Debug\netcoreapp2.2\Level2.Test.csprojAssemblyReference.cache
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\obj\Debug\netcoreapp2.2\Level2.Test.AssemblyInfoInputs.cache
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\obj\Debug\netcoreapp2.2\Level2.Test.AssemblyInfo.cs
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\obj\Debug\netcoreapp2.2\Level2.Test.dll
+E:\Shilpa\24-03-2020\Building an ASP.NET Application with Visual Studio 2017\ASP.NET Core MVC\Level2\Level2.Test\obj\Debug\netcoreapp2.2\Level2.Test.pdb
